@@ -18,5 +18,5 @@ export default middleware;
 
 export const config = {
   // matcher: "/:path*",
-  matcher: ["/", "/about", "/", "/about", "/sign-in/:path*"],
+  matcher: ["/", "/about", "/sign-in/:path*"],
 };
